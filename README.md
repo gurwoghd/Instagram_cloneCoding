@@ -1,2 +1,2 @@
 # Instagram_cloneCoding
-instagrame clone coding with django
+instagram clone coding with django
