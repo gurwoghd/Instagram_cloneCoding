@@ -1,6 +1,11 @@
 # Instagram_cloneCoding
-instagram clone coding with django
+
+instagram clone coding
+
+## 기술스택
+
+Javascript, Typescript
+React, NESTJS
+MongoDB
 
 ## Interference
-Django Documentation: https://docs.djangoproject.com/en/4.2/
-Topic Guides: https://docs.djangoproject.com/en/4.2/topics/
